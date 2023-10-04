@@ -240,6 +240,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Coffee addict, dog person, developer.
 - GitHub: [Andrea Stringham](https://github.com/astringham)
 
+#### Name: [Aryan Raj](https://github.com/Aryvnraj)
+- Place: Delhi , India
+- Bio: Student
+- Github: [Aryan Raj](https://github.com/Aryvnraj)
+- 
 #### Name: [Andrea Zanin](https://github.com/ZaninAndrea)
 - Place: Trento, Italy
 - Bio: High School Student, passionate about math, coding and open source
